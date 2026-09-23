@@ -14,16 +14,21 @@ resume_name:                    "Kiran Banari Ganesh"
 resume_title:                   "Mechanical Engineer |  Aerospace/EV Structures | GD&T | NX | CATIA"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "kiranbg19@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "226-759-6233"
+resume_contact_address:         "Canada"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Canada • 226-759-6233 • kiranbg19@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>9+ years of experience in mechanical design, system integration, product development and leadership across aerospace, automotive, and electrification industries.
+  Hands-on expertise in Siemens NX, CATIA V5, AutoCAD Inventor and SolidWorks for 3D modeling, complex assemblies, and detailed 2D drawings.
+  Strong command of GD&T (ASME Y14.5), tolerance stack-up, and design for manufacturability (DFM) principles for machined, cast, sheet-metal, and composite components.
+ Experience with FEA validation (ANSYS, ABAQUS Simulation) supporting structural and thermal performance of mechanical systems.
+ Proven ability to lead design reviews, mentor junior designers, and coordinate cross functional efforts between manufacturing, quality, and stress teams to resolve integration challenges.
+ Solid understanding of configuration management, PLM (ENOVIA, Teamcenter), and change control (RFC/PCR)</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
