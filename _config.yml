@@ -45,14 +45,27 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/username"
+  resume_twitter_url:           "http://twitter.com/username"
+  resume_dribbble_url:          "https://dribbble.com/username"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/username"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://github.com/jglovier/resume-template"
+  resume_medium_url:            "https://medium.com/@username"
+  # resume_bluesky_url:           "https://bsky.app/profile/username"
+  # resume_youtube_url:           "https://www.youtube.com/@username"
+  # resume_mastodon_url:          "https://mastodon.social/@username"
+  # resume_threads_url:           "https://www.threads.net/@username"
+  # resume_stackoverflow_url:     "https://stackoverflow.com/users/0000000/username"
+  # resume_wellfound_url:         "https://wellfound.com/u/username"
+  # resume_spotify_url:           "https://open.spotify.com/user/username"
+  # resume_soundcloud_url:        "https://soundcloud.com/username"
+  # resume_tiktok_url:            "https://www.tiktok.com/@username"
+  # resume_pinterest_url:         "https://www.pinterest.com/username/"
+  # resume_snapchat_url:          "https://www.snapchat.com/add/username"
+  # resume_whatsapp_url:          "https://wa.me/15555555555"
+  # resume_vk_url:                "https://vk.com/id000000000"
 resume_print_social_links:      true
 
 # Design settings
